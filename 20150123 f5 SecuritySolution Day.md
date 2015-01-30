@@ -1,10 +1,13 @@
 活動講義檔案下載連結如下，如有下載問題請再與網路資訊研討會中心聯絡
+
 02-29432416#66｜seminar@netmag.tw
 
 活動議程     
   
 時間	議程主題／主講人
+
 09:33-10:20	[2015資安思維](http://networkmagazine.us8.list-manage2.com/track/click?u=3ab6bf7873a6214283088bc94&id=e40fdd2ffa&e=5b1ee84e2c)
+
             蒲樹盛／BSI 台灣總經理 
             
 10:20-11:00 [DDos Security and Silverline高感知應用防禦體系](http://networkmagazine.us8.list-manage1.com/track/click?u=3ab6bf7873a6214283088bc94&id=629a3d38f6&e=5b1ee84e2c)
