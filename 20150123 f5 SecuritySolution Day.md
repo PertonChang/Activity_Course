@@ -6,7 +6,7 @@
   
 時間	議程主題／主講人
 
-09:33-10:20	[2015資安思維](http://networkmagazine.us8.list-manage2.com/track/click?u=3ab6bf7873a6214283088bc94&id=e40fdd2ffa&e=5b1ee84e2c)
+09:33-10:20	[2015資安思維](http://networkmagazine.us8.list-manage2.com/track/click?u=3ab6bf7873a6214283088bc94&id=e40fdd2ffa&e=5b1ee84e2c)<br>
 
             蒲樹盛／BSI 台灣總經理 
 
